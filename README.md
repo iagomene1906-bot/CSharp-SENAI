@@ -11,9 +11,9 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 
 ## Códigos
 
-dotnet new console --use-program-main
-
-dotnet run
+    dotnet new console --use-program-main
+    <div/>
+    dotnet run
 
 #### [Comandos Git](https://sparkling-link-662.notion.site/Git-GitHub-32716837961280d1ae28dad3574c4da0)
 
@@ -32,4 +32,7 @@ Características da Linguagem C#, Tipagem de Dados C#, Variáveis e Operações 
 Correção Aula03, Git/GitHub.
 
 #### Aula - 05
-Estruturas Condicionais (if, else, switch case e operador ternário).
+Estruturas de Condicionais (if, else, switch case e operador ternário).
+
+#### Aula - 06
+Estruturas de Repetição (for, while, do/while e foreach).

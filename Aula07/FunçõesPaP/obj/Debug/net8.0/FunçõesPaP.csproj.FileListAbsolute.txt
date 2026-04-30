@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\bin\Debug\net8.0\FunçõesPaP.exe
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\bin\Debug\net8.0\FunçõesPaP.deps.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\bin\Debug\net8.0\FunçõesPaP.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\bin\Debug\net8.0\FunçõesPaP.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\bin\Debug\net8.0\FunçõesPaP.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.sourcelink.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\refint\FunçõesPaP.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\FunçõesPaP.genruntimeconfig.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula07\FunçõesPaP\obj\Debug\net8.0\ref\FunçõesPaP.dll

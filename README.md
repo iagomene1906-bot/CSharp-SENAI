@@ -42,3 +42,6 @@ Estruturas de Condicionais (if, else, switch case e operador ternário).
 
 #### Aula - 06
 Estruturas de Repetição (for, while, do/while e foreach).
+
+#### Aula - 07
+Estruturas de Funções 

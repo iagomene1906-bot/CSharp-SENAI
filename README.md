@@ -1,5 +1,9 @@
 # :books: CSharp-SENAI
-[Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antonio Skaf.](https://cronos-media.sesisenaisp.org.br//api/media/1-0/files?img=img_1_230223_54f8901f-fc06-46e1-9e2e-a7a0523854c3_o.jpg&tipo=p)
+Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antonio Skaf.
+
+<img src="https://cronos-media.sesisenaisp.org.br//api/media/1-0/files?img=img_1_230223_54f8901f-fc06-46e1-9e2e-a7a0523854c3_o.jpg&tipo=p" alt="Imagem do SENAI Paulo Antonio Skaf" width="600" height="300" />
+
+[![Professora Késsia Milena](https://img.shields.io/badge/Professora-Késsia%20Milena-purple?style=flat)](https://github.com/kessiamilena)
 
 ## Ferramentas
 

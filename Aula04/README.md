@@ -3,6 +3,8 @@ Correção da Aula03 + Git/GitHub.
 
 Criação e estilização de repositórios e conexão local -> git.
 
+---
+
 ## Material
 
 [Git + GitHub](https://sparkling-link-662.notion.site/Git-GitHub-32716837961280d1ae28dad3574c4da0)

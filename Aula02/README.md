@@ -1,4 +1,4 @@
 # Aula - 02
-Lógica de programação e fluxogramas.
+Lógica de Programação e Fluxogramas.
 
 Lista de exercícios de fluxograma desenvolvidos durante a aula.

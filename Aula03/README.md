@@ -1,6 +1,8 @@
 # Aula - 03
 Características da Linguagem C#, Tipagem de Dados C#, Variáveis e Operações de Sintaxe Básica.
 
+---
+
 ## Material
 
 [Sintaxe C#](https://sparkling-link-662.notion.site/Sintaxe-C-351168379612806f928ae20e1d638899)

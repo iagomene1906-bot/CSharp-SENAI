@@ -1,6 +1,8 @@
 # Aula - 07
 Estruturas de Funções e Arrays.
 
+---
+
 ## Exemplos
 
 ### Função sem parâmetro e retorno

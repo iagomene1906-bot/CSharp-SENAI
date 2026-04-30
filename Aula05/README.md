@@ -5,11 +5,15 @@ Atividade prática de Programação em C#:
 Resolução de exercícios envolvendo estruturas condicionais (if, else, switch case e operador ternário). 
 Os exercícios estão organizados em níveis (fácil, médio e difícil) para desenvolver o raciocínio lógico e a tomada de decisão em algoritmos.
 
+---
+
 ## Material
 
 [Estruturas Condicionais](https://sparkling-link-662.notion.site/Estruturas-Condicionais-35116837961280cfb558e1fcd72fd9dd)
 
 [Lista de exercícios](https://sparkling-link-662.notion.site/Exerc-cios-Condicionais-34e1683796128091b664d6acdb0aa0ff)
+
+---
 
 ## Exemplos
 

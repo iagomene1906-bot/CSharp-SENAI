@@ -5,6 +5,8 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 
 [![Professora Késsia Milena](https://img.shields.io/badge/Professora-Késsia%20Milena-purple?style=flat)](https://github.com/kessiamilena)
 
+---
+
 ## Ferramentas
 
 [.NET](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
@@ -12,6 +14,8 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 [Visual Studio Code](https://code.visualstudio.com/)
 [Draw.io](https://app.diagrams.net/)
 [Git](https://git-scm.com/install/windows)
+
+---
 
 ## Códigos
 
@@ -22,6 +26,8 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
         dotnet run
 
 #### [Comandos Git](https://sparkling-link-662.notion.site/Git-GitHub-32716837961280d1ae28dad3574c4da0)
+
+---
 
 ## Aulas
 

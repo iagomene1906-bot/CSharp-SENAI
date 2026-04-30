@@ -12,7 +12,9 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 ## Códigos
 
     dotnet new console --use-program-main
+    
     <div/>
+    
     dotnet run
 
 #### [Comandos Git](https://sparkling-link-662.notion.site/Git-GitHub-32716837961280d1ae28dad3574c4da0)

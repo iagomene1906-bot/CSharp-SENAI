@@ -104,15 +104,15 @@ class Program
         //     Console.WriteLine(nome);
         // }
 
-        int[] numeros = (2, 4, 6, 8);
-        int soma = 0;
+        // int[] numeros = {2, 4, 6, 8};
+        // int soma = 0;
 
-        foreach (int numero in numeros)
-        {
-            soma += numero;
-            // soma = soma + numero;
-        }
+        // foreach (int numero in numeros)
+        // {
+        //     soma += numero;
+        //     // soma = soma + numero;
+        // }
 
-        Console.WriteLine("Soma: " + soma);
+        // Console.WriteLine("Soma: " + soma);
     }
 }

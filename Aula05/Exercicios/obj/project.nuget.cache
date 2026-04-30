@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Dsc6rRnCUmmMgqA86VpKU7gVg5e8GCjUfVk6/lq5vs1JD9C4JRleHlM0R85QAJx6xDEinQ+LUOyxhIDlkbX3+g==",
+  "dgSpecHash": "ndP1TV4zezg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\Aula04\\Exercicios\\Exercicios.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercicios\\Exercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

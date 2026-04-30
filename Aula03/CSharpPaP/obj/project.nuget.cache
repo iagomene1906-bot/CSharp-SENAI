@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FjJt4tmg6bJc7G6yxPONWsWwV9nG2w77wy9sCQzkSuoUrlchJWHd/xecXgUvBpw1VnRJjVsFHdPhMnhmQ2rLJw==",
+  "dgSpecHash": "ztZueukQZIg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\IncioCSharp\\IncioCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula03\\CSharpPaP\\IncioCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Façaporonde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

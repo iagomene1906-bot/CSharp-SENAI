@@ -1,4 +1,6 @@
-﻿namespace Exercicios;
+﻿using System.Security.Cryptography;
+
+namespace Exercicios;
 
 class Program
 {
@@ -191,8 +193,82 @@ class Program
         // }
 
         // EXERCÍCIO 6
-        decimal cV = 200m;
+        // decimal cV = 200m;
 
-        Console.WriteLine(cV == 200m ? $"15% de desconto: {cV * 0.85m}" : cV < 200m $"5% de desconto: {cV * 0.95m}" );
+        // Console.WriteLine(cV >= 200m ? $"15% de desconto: {cV * 0.85m}" : $"5% de desconto: {cV * 0.95m}" );
+    
+        // EXERCÍCIO 7
+        // Console.Write("Digite o primeiro valor: ");
+        // double v1 = double.Parse(Console.ReadLine());
+        // Console.Write("Digite o segundo valor: ");
+        // double v2 = double.Parse(Console.ReadLine());
+
+        // Console.Write("Digite a operação desejada (+, -, * ou /): ");
+        // string op = Console.ReadLine();
+
+        // switch (op)
+        // {
+        //     case "+":
+        //         Console.WriteLine("\nResultado da operação: " + (v1 + v2));
+        //         break;
+        //     case "-":
+        //         Console.WriteLine("\nResultado da operação: " + (v1 - v2));
+        //         break;
+        //     case "*":
+        //         Console.WriteLine("\nResultado da operação: " + (v1 * v2));
+        //         break;
+        //     case "/":
+        //         Console.WriteLine("\nResultado da operação: " + (v1 / v2));
+        //         break;
+        //     default:
+        //         Console.WriteLine("\nOpção inválida.");
+        //         break;
+        // }
+
+        // EXERCÍCIO 8
+        // Console.Write("Digite um número de 1 a 7: ");
+        // int op = Console.ReadLine();
+
+        // switch (op)
+        // {   
+        //     case 1:
+        //     case 7:
+        //         Console.WriteLine("Fim de semana.");
+        //         break;
+        //     case 2:
+        //     case 3:
+        //     case 4:
+        //     case 5:
+        //     case 6:
+        //         Console.WriteLine("Dia útil.");
+        //         break;
+        //     default:
+        //         Console.WriteLine("Dia inválido.");
+        //         break;
+        // }
+
+        // EXERCÍCIO 9 
+        // Console.WriteLine("Digite o seu plano de internet para descobrir a banda: \nB - Para plano básico \nI - Para intermediário \nP - Para premium\n");
+        // char op = char.Parse(Console.ReadLine().ToUpper());
+
+        // switch (op)
+        // {
+        //     case 'B':
+        //         Console.WriteLine("\nSeu plano tem uma banda de 10MB.");
+        //         break;
+        //     case 'I':
+        //         Console.WriteLine("\nSeu plano tem uma banda de 50MB.");
+        //         break;
+        //     case 'P':
+        //         Console.WriteLine("\nSeu plano tem uma banda de 100MB.");
+        //         break;
+        //      default:
+        //          Console.WriteLine("Opção inválida.");
+        //          break;
+        // }
+
+        // NÍVEL DIFÍCIL
+
+        //
     }
 }

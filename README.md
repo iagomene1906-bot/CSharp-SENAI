@@ -26,7 +26,7 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 ## Aulas
 
 #### Aula - 01
-Lógica e algoritmos.
+Lógica e Algoritmos.
 
 #### Aula - 02
 Lógica de programação e fluxogramas.
@@ -44,4 +44,4 @@ Estruturas de Condicionais (if, else, switch case e operador ternário).
 Estruturas de Repetição (for, while, do/while e foreach).
 
 #### Aula - 07
-Estruturas de Funções 
+Estruturas de Funções e Arrays.

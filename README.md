@@ -13,7 +13,7 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 
         dotnet new console --use-program-main
     
-    <div/>
+<div/>
     
         dotnet run
 

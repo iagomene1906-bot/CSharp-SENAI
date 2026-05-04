@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj": {}
+    "C:\\Users\\fic\\desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj": {
+    "C:\\Users\\fic\\desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj",
         "projectName": "FunçõesPaP",
-        "projectPath": "C:\\Users\\fic\\Desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj",
+        "projectPath": "C:\\Users\\fic\\desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\FunçõesPaP.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\obj\\",
+        "outputPath": "C:\\Users\\fic\\desktop\\CSharp-SENAI\\Aula07\\FunçõesPaP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"

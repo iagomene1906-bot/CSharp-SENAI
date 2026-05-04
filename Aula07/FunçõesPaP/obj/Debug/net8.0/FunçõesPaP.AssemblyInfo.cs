@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunçõesPaP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e93fb3990fbe29c6d09aa7610a7336ecb9c6d89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f70c8104d930a2ebe433581dc8c8e5ddc5d0bdd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunçõesPaP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunçõesPaP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ Os exercícios estão organizados em níveis (fácil, médio e difícil) para de
 
 ## Material
 
-[Estruturas Condicionais](https://sparkling-link-662.notion.site/Estruturas-Condicionais-35116837961280cfb558e1fcd72fd9dd)
+[Estruturas de Repetição](https://sparkling-link-662.notion.site/Estruturas-de-Repeti-o-3501683796128025b26ef87521a26b98)
 
 [Lista de exercícios](https://sparkling-link-662.notion.site/Exerc-cios-de-Repeti-o-35116837961280569be4defa4eca8e8a)
 

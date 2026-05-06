@@ -1,7 +1,7 @@
 # :books: CSharp-SENAI
 Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antonio Skaf.
 
-<img src="https://cronos-media.sesisenaisp.org.br//api/media/1-0/files?img=img_1_230223_54f8901f-fc06-46e1-9e2e-a7a0523854c3_o.jpg&tipo=p" alt="Imagem do SENAI Paulo Antonio Skaf" width="600" height="300" />
+<img src="https://cronos-media.sesisenaisp.org.br//api/media/1-0/files?img=img_1_230223_54f8901f-fc06-46e1-9e2e-a7a0523854c3_o.jpg&tipo=p" alt="Imagem do SENAI Paulo Antonio Skaf" width="600" height="400" />
 
 [![Professora Késsia Milena](https://img.shields.io/badge/Professora-Késsia%20Milena-purple?style=flat)](https://github.com/kessiamilena)
 
@@ -50,4 +50,10 @@ Estruturas de Condicionais (if, else, switch case e operador ternário).
 Estruturas de Repetição (for, while, do/while e foreach).
 
 #### Aula - 07
-Estruturas de Funções e Arrays.
+Estrutura de Funções, Arrays, Funções internas e List.
+
+#### Aula - 08
+Introdução a Programação Orientada a Objeto - Base e Herança.
+
+#### Aula - 09
+Pilares da POO (Abstração, Encapsulamento, Herança e Polimorfismo).

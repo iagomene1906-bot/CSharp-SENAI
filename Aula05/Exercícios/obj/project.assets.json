@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercícios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercicios\\Exercicios.csproj",
+      "projectPath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercícios\\Exercicios.csproj",
       "packagesPath": "C:\\Users\\Façaporonde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercicios\\obj\\",
+      "outputPath": "C:\\Users\\Façaporonde\\Desktop\\CSharp-SENAI\\Aula05\\Exercícios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Façaporonde\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -267,6 +267,24 @@ class Program
 
         // NÍVEL DIFÍCIL
 
-        //
+        // EXERCÍCIO 1
+        // Console.Write("Digite sua nota: ");
+        // double nota = double.Parse(Console.ReadLine());
+
+        // if(nota >= 7)
+        // {
+        //     Console.WriteLine($"Aprovado!");
+            
+        // }
+        // else if(nota >= 5)
+        // {
+        //     Console.WriteLine($"Recuperação");
+        // }
+        // else
+        // {
+        //     Console.WriteLine($"Reprovado!");
+        // } 
+
+        // EXERCÍCIO 2
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.AssemblyInfoInputs.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.AssemblyInfo.cs
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\bin\Debug\net10.0\SistemaDeAnimais.exe
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\bin\Debug\net10.0\SistemaDeAnimais.deps.json
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\bin\Debug\net10.0\SistemaDeAnimais.runtimeconfig.json
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\bin\Debug\net10.0\SistemaDeAnimais.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\bin\Debug\net10.0\SistemaDeAnimais.pdb
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\refint\SistemaDeAnimais.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.pdb
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\SistemaDeAnimais.genruntimeconfig.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDeAnimais\obj\Debug\net10.0\ref\SistemaDeAnimais.dll

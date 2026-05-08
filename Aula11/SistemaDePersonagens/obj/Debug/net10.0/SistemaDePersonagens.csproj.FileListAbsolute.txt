@@ -1,0 +1,14 @@
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\bin\Debug\net10.0\SistemaDePersonagens.exe
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\bin\Debug\net10.0\SistemaDePersonagens.deps.json
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\bin\Debug\net10.0\SistemaDePersonagens.runtimeconfig.json
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\bin\Debug\net10.0\SistemaDePersonagens.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\bin\Debug\net10.0\SistemaDePersonagens.pdb
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.AssemblyInfoInputs.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.AssemblyInfo.cs
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.csproj.CoreCompileInputs.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\refint\SistemaDePersonagens.dll
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.pdb
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\SistemaDePersonagens.genruntimeconfig.cache
+C:\Users\Façaporonde\Desktop\Exercicios\SistemaDePersonagens\obj\Debug\net10.0\ref\SistemaDePersonagens.dll

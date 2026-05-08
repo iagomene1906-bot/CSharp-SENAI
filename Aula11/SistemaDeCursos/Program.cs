@@ -1,20 +1,16 @@
-﻿namespace SistemaDeCursos;
+﻿namespace Projeto_Sistema_de_cursos;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.Clear();
-        
-        List<Curso> cursos = new List<Curso>
-        {
+        List<Curso> cursos = new List<Curso>{
             new Tecnico("Desenvolvimento de Sistemas", 360),
-            new Superior("Cybersegurança", 500)
+            new Superior("CyberSegurança", 500)
         };
 
-        foreach (var curso in cursos)
-        {
-            curso.exibirResumo(); // Método que vem da classe Curso.cs
+        foreach(var curso in cursos){
+            curso.exibirResumo();
         }
     }
 }

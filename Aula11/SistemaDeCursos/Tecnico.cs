@@ -3,19 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SistemaDeCursos
+namespace Projeto_Sistema_de_cursos
 {
     public class Tecnico : Curso
     {
-        public Tecnico(string nomeConstrutor, int horasConstrutor) : base(nomeConstrutor, horasConstrutor)
+        public Tecnico(string nomeConst, int horasConst) : base(nomeConst, horasConst)
         {
-
         }
 
-        // Sobrescrevendo a informação do método abstrato
-        public override double calcularPreco()
-        {
-            return horas * 20; // Valor por hora
+        public override double calcularPreco(){
+            return horas * 20;
+        }
+
+        public override void exibirResumo(){
+            Console.WriteLine($"===== CURSO TÉCNICO =====");
+            Console.WriteLine($"\nCurso: {nome}\nCarga horária: {horas}\nPreço final: R${calcularPreco():f2}\n");
         }
     }
 }

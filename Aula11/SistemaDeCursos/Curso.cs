@@ -3,27 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SistemaDeCursos
+namespace Projeto_Sistema_de_cursos
 {
     public abstract class Curso
     {
-        public string nome { get; set; } = string.Empty; // "", vázio
+        public string nome { get; set; } = string.Empty;
         public int horas { get; set; }
 
-        public Curso(string nomeConstrutor, int horasConstrutor) // Construtor vai forçar preencher os valores
+        public Curso(string nomeConst, int horasConst)
         {
-            nome = nomeConstrutor;
-            horas = horasConstrutor;
+            nome = nomeConst;
+            horas = horasConst;
         }
 
-        public abstract double calcularPreco(); // Faz modificação em outro lugar
+        public abstract double calcularPreco();
 
-        public virtual void exibirResumo() // virtual = para ser sobrescrito, void = vazio
-        {
-            Console.WriteLine($"Curso: {nome}");
-            Console.WriteLine($"Horas: {horas}");
-            Console.WriteLine($"Preço final: {calcularPreco():f2}\n");
-            
+        public virtual void exibirResumo(){
+            Console.WriteLine($"===== CURSO =====");
+            Console.WriteLine($"\nCurso: {nome}\nCarga horária: {horas}\nPreço final: R${calcularPreco():f2}\n");
         }
     }
 }

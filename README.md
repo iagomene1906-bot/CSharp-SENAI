@@ -1,4 +1,4 @@
-# :books: CSharp-SENAI
+# :books: CSharp_SENAI
 Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antonio Skaf.
 
 <img src="https://cronos-media.sesisenaisp.org.br//api/media/1-0/files?img=img_1_230223_54f8901f-fc06-46e1-9e2e-a7a0523854c3_o.jpg&tipo=p" alt="Imagem do SENAI Paulo Antonio Skaf" width="600" height="400" />
@@ -32,31 +32,43 @@ Registro do meu aprendizado no curso Programação em C# pelo SENAI Paulo Antoni
 ## Aulas
 
 #### Aula - 01
-Lógica e Algoritmos.
+Introdução ao curso SENAI e apresentação básica das técnologias.
 
 #### Aula - 02
 Lógica de programação e fluxogramas.
 
 #### Aula - 03
-Características da Linguagem C#, Tipagem de Dados C#, Variáveis e Operações de Sintaxe Básica.
+Variáveis e operações C#.
 
 #### Aula - 04
-Correção Aula03, Git/GitHub.
+Correção da Aula - 03 e git/github.
 
 #### Aula - 05
-Estruturas de Condicionais (if, else, switch case e operador ternário).
+Condicionais C#.
 
 #### Aula - 06
-Estruturas de Repetição (for, while, do/while e foreach).
+Estruturas de repetição.
 
 #### Aula - 07
-Estrutura de Funções, Arrays, Funções internas e List.
+Funções, Arrays, Funções internas e List.
 
 #### Aula - 08
-Introdução a Programação Orientada a Objeto - Base e Herança.
+Programação Orientada a Objeto - Base e Herança.
 
 #### Aula - 09
-Pilares da POO (Abstração, Encapsulamento, Herança e Polimorfismo).
+POO - Pilares (Abstração, Encapsulamento, Herança e Polimorfismo).
 
 #### Aula - 10
-Praticando conteúdo POO e Projeto Lanchonete.
+Projetos / Exercícios aplicando os pilares da POO.
+
+#### Aula - 11
+Introdução sobre API.
+
+#### Aula - 12
+Desenvolvimento da API Biblioteca.
+
+#### Aula - 13
+Desenvolvimento da API Produtos.
+
+#### Aula - 14
+Desenvolvimento do Jogo da cobrinha em C#.
